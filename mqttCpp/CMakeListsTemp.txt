@@ -1,0 +1,6 @@
+PROJECT(test)
+
+find_package(jsoncpp REQUIRED)
+INCLUDE_DIRECTORIES(${jsoncpp_INCLUDE_DIRS})
+TARGET_LINK_LIBRARIES( main ${JSONCPP_LIBRARIES} )
+ADD_EXECUTABLE(dust.out main.cpp)

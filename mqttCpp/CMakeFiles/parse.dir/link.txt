@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parse.dir/main.cpp.o -o parse  -ljsoncpp /usr/lib/arm-linux-gnueabihf/libmosquitto.so /usr/lib/arm-linux-gnueabihf/libmosquitto.so.1 -pthread 

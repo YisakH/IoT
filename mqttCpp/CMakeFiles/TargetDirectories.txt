@@ -1,0 +1,3 @@
+/home/pi/projects/Rasppi/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/Rasppi/CMakeFiles/parse.dir
+/home/pi/projects/Rasppi/CMakeFiles/edit_cache.dir
