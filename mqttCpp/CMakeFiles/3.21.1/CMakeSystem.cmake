@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Linux")
 set(CMAKE_HOST_SYSTEM_VERSION "5.10.17-v7l+")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "armv7l")
 
-
+include("/home/pi/Downloads/vcpkg/scripts/buildsystems/vcpkg.cmake")
 
 set(CMAKE_SYSTEM "Linux-5.10.17-v7l+")
 set(CMAKE_SYSTEM_NAME "Linux")

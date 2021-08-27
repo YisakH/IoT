@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/projects/Rasppi
+# Install script for directory: /home/pi/git/IoT/mqttCpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pi/projects/Rasppi/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pi/git/IoT/mqttCpp/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/pi/projects/Rasppi/main.cpp" "CMakeFiles/parse.dir/main.cpp.o" "gcc" "CMakeFiles/parse.dir/main.cpp.o.d"
+  "/home/pi/git/IoT/mqttCpp/main.cpp" "CMakeFiles/parse.dir/main.cpp.o" "gcc" "CMakeFiles/parse.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
